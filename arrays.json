@@ -4,28 +4,160 @@
     "general": {
       "tags": ["induction", "admission"],
       "induction": {
-         "tags": ["time", "default"] 
-        }
+        "tags": ["time", "default"]
+      }
     },
-    "scholarship":{
-      "tags":["digital gujarat", "mysy", "nsp", "private"],
-      "digital gujarat":["criteria","document","process","faculty"],
-      "mysy":["criteria","document","process","faculty"],
-      "nsp":["criteria","document","process","faculty"],
-      "foodbill":["criteria","document","process","faculty"]
+    "scholarship": {
+      "tags": ["digital gujarat", "mysy", "nsp", "private"],
+      "digital gujarat": {
+        "tags": ["criteria", "document", "process", "faculty"]
+      },
+      "mysy": { "tags": ["criteria", "document", "process", "faculty"] },
+      "nsp": { "tags": ["criteria", "document", "process", "faculty"] },
+      "foodbill": { "tags": ["criteria", "document", "process", "faculty"] }
     },
     "club": {
-      "tags":["ncc", "nss", "gdsc"]
+      "tags": [
+        "ncc",
+        "nss",
+        "gdsc"
+      ],
+      "ncc":{
+        "tags":[
+          "info",
+          "selection",
+          "activity",
+          "more"
+        ],
+        "activity" : {
+          "tags" : [
+            "collage",
+            "unit",
+            "national"
+        ]
+        }
+      },
+      "nss":{
+        "tags":[
+          "info",
+          "activity"
+        ],
+        "activity": {
+          "tags": [
+            "camp",
+            "college",
+            "other"
+          ]
+        }
+      },
+      "gdcs":{
+        "tags":["dsa and interview prep","ai/ml","flutter","web development","competitive programming"],
+        "dsa and interview prep":{
+          "tags":["lead","join","info"]
+        },
+        "ai/ml":{
+          "tags":["lead","join","info"]
+        },
+        "flutter":{
+          "tags":["lead","join","info"]
+        },
+        "web development":{
+          "tags":["lead","join","info"]
+        },
+        "competitive programming":{
+          "tags":["lead","join","info"]
+        }
+      }
     },
-    "faculty":{
-      "tags":["ce", "it", "ec"]
+    "faculty": {
+      "tags": [
+        "computer",
+        "ec",
+        "chemical",
+        "civil",
+        "electrical",
+        "it",
+        "ic",
+        "mechanical",
+        "pe",
+        "ds"
+      ],
+      "computer": {
+        "tags": ["department", "hod"]
+      },
+      "ec": {
+        "tags": ["department", "hod"]
+      },
+      "chemical": {
+        "tags": ["department", "hod"]
+      },
+      "civil": {
+        "tags": ["department", "hod"]
+      },
+      "electrical": {
+        "tags": ["department", "hod"]
+      },
+      "it": {
+        "tags": ["department", "hod"]
+      },
+      "ic": {
+        "tags": ["department", "hod"]
+      },
+      "mechanical": {
+        "tags": ["department", "hod"]
+      },
+      "pe": {
+        "tags": ["department", "hod"]
+      },
+      "ds": {
+        "tags": ["department", "hod"]
+      }
     },
 
-    "library":{
-      "tags":["time", "schedule"]
+    "library": {
+      "tags": [
+        "time",
+        "process",
+        "book",
+        "faculty"
+      ],
+      "time":{
+        "tags":[
+          "start",
+          "break",
+          "end",
+          "working",
+          "issue",
+          "renew",
+          "reading",
+          "department"
+        ],
+        "department":{
+          "tags":[
+            "computer",
+            "electrical",
+            "it",
+            "chemical",
+            "ec",
+            "ic",
+            "mechanical",
+            "power",
+            "datascience",
+            "civil",
+            "am","s&h"
+          ]
+        }
+      },
+      "process":{
+        "tags":[
+          "registration",
+          "issue",
+          "renew"
+        ]
+      }
     },
-    "news":{
-      "tags":["daily", "hackathone"]
+    "news": {
+      "tags": ["daily", "hackathone"]
     }
   }
 }
