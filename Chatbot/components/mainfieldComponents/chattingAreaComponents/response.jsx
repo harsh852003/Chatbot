@@ -1,5 +1,7 @@
-function response() {
-
+function Response() {
+    return(
+        <div>abc</div>
+    )
 }
 
-export default response
+export default Response
