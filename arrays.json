@@ -14,98 +14,22 @@
         "admission"
       ],
       "induction": {
-        "tags": [
-          "time",
-          "default"
-        ]
-      }
+         "tags": ["time", "default"] 
+        }
     },
-    "scholarship": {
-      "tags": [
-        "digital gujarat",
-        "mysy",
-        "nsp",
-        "private"
-      ],
-      "digital gujarat": [
-        "criteria",
-        "document",
-        "process",
-        "faculty"
-      ],
-      "mysy": [
-        "criteria",
-        "document",
-        "process",
-        "faculty"
-      ],
-      "nsp": [
-        "criteria",
-        "document",
-        "process",
-        "faculty"
-      ],
-      "foodbill": [
-        "criteria",
-        "document",
-        "process",
-        "faculty"
-      ]
+    "scholarship":{
+      "tags":["digital gujarat", "mysy", "nsp", "private"],
+      "digital gujarat":["criteria","document","process","faculty"],
+      "mysy":["criteria","document","process","faculty"],
+      "nsp":["criteria","document","process","faculty"],
+      "foodbill":["criteria","document","process","faculty"]
     },
     "club": {
-      "tags": [
-        "ncc",
-        "nss",
-        "gdsc"
-      ],
-      "ncc":{
-        "tags":[
-          "info",
-          "selection",
-          "activity",
-          "more"
-        ],
-        "activity" : {
-          "tags" : [
-            "collage",
-            "unit",
-            "national"
-        ]
-        }
-      },
-      "nss":{
-        "tags":[
-          "info",
-          "activity"
-        ],
-        "activity": {
-          "tags": [
-            "camp",
-            "college",
-            "other"
-          ]
-        }
-      }
+      "tags":["ncc", "nss", "gdsc"]
     },
-    "faculty": {
-      "tags": [
-        "chemical",
-        "civil",
-        "computer",
-        "electrical",
-        "ec",
-        "it",
-        "ic",
-        "mechanical",
-        "pe"
-      ],
-      "chemical":{
-        "tags":[
-          "department",
-          "hod"
-        ]
-       }
-      },
+    "faculty":{
+      "tags":["ce", "it", "ec"]
+    },
 
     "library": {
       "tags": [
@@ -149,11 +73,9 @@
         ]
       }
     },
-    "news": {
-      "tags": [
-        "daily",
-        "hackathone"
-      ]
+    "news":{
+      "tags":["daily", "hackathone"]
     }
   }
+  
 }

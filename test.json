@@ -161,6 +161,7 @@
       "process":{
           "registration": "Registration process is handled through sts portal registration.After completing the registration process in sts portal your registration is completed for library.",
 
+<<<<<<< HEAD
           "issue": "step-1 - first of all for issuing book you have required id card for your information. \n step-2 - update the issuing book details through librarian. \n step-3 - update the validity of issuing book on card. (2 months time for each book )",
           
           "renew": "step-1 - go to the librarian \n step-2 - update your book duration time(validity time)\n step-3 - if your renew date is gone then penelty is done(1 day delay 1 rupee is penelty)."
@@ -172,4 +173,174 @@
   "news" : {
       "hackathon" : "hackvgec"
   }
+=======
+    },
+    "scholarship" : {
+        "digital gujarat" : {
+            
+            "criteria" : "1 .The applicant must be a resident of Gujarat.\n 2. The applicant must belong to one of the eligible categories, i.e., EWS, SC, ST, or OBC.\n 3. The applicant must be studying in a post-matric course in a recognized educational institution in Gujarat.\n4.The family income of the applicant should not exceed a certain limit, which varies depending on the category to which the applicant belongs.\n5. The applicant must have a valid Aadhaar card.",
+            "document" : "1.Aadhaar Card \n2.Caste certificate (if applicable)\n3.Income certificate\n4.Previousyearmarksheet\n 5.Bonafide certificate \n6.Bank account details including the bank name, branch name, IFSC code, and account number.",
+            "process" : "1.step- 1 set 2 copy for all reqiure document. \n2.step -2 go to your department faculty to check all documents for approvel. \n3.step -3 go to the academic block-A on student section department for step-paper. \n 4.step -4 go to your department and submit document to rspective faculty members.",
+            "faculty" : "1.pooja Mistry"
+        },
+        "mysy" : {
+            "criteria" : "1.For scholarship in Diploma admissions, the candidate should have passed the Std X from arecognized board from state of Gujarat with minimum 80 percentile in the board examination\n 2. For scholarship in Bachelor degree programs, the candidates should have passed Std XII Science/General stream from recognised board from the state of Gujarat with minimum80 percentile inthe board examination.\n 3. For Diploma to Degree students the minimum eligibility criteria for availing the benefits of the scheme is a 65% marks at Diploma level examination from recognised university situated in the state of Gujarat.\n 4. The candidates whose parents annual income is not more than Rs. 6,00,000/- per annum shall only be considered eligible for the said scheme.\n 5. The State Government has approved the validity of income certificate for three financial years from date of issue. Accordingly, a candidate who has a valid income certificate need not haveto issue it again for next three years financial years.",
+            "document" : "the below pdf is for all require document for mysy",
+            "process" : "1.step- 1 set 2 copy of all reqiure document. \n2.step -2 go to your department faculty to check all documents for approvel. \n3.step -3 go to the academic block-A on student section department for step-paper. \n 4.step -4 go to your department and submit document to rspective faculty members.",
+            "faculty" : "1. Prof. Disha D. Tilala(science and Humanities)\n2.Prof. Jagruti K.Naik(Electronics & communication)"
+        },
+        "nsp" : {
+            "criteria" : "1. pre-matric :\n previous final exam = 50%\nincome of parents/guardian  = 1.00 lakh\n2.pose-matric : \n previous final  exam  = 50%\n income = 2.00 lakh \n 3.merit cum means :\n previous final exam =50%\nincome = 2.50lakh\n4.begum hazrat mahal\nprevious final exam = 50%\n income= 2.00 lakh\n5.pragati (only for girls)\ninocme 8 lakh\n6.central  sector scheme\nincome : 4-5lakh\n result :80 percentile(12th)\nprevious final exam : 50% ",
+            "document" : "1.Mandatory form(available in vgec website)\n2.bonofide certificate (NSP bonofide not college Bonafide \n 3.Adhar card\n4.income certifiacte\n5.bank passbook 1st page copy(which show the name and account number)\n6.college fee receipt\n7.result of last semester+current semester\n8.Minority  certificate  if applicable only\nafter apply in national scholarship portal is compulsory  for students to submitted  their application with  related  document in hard copy\nsubmit documents in 2 copy",
+             "process" : "1.step- 1 set 2 copy for all reqiure document. \n2.step -2 go to your department faculty to check all documents for approvel. \n3.step -3 go to the academic block-A on student section department for step-paper. \n 4.step -4 go to your department and submit document to rspective faculty members.",
+             "faculty" : "1.nilam panchal"
+        },
+        "food bill" : {
+            "criteria" : "1.Rs.1500 per month for 10 months for non-reserved category students studying in graduate level medical, dental, technical, para-medical and studying in government/non-aided hostels who do not have educational system in their own taluk away from their family and study outside the taluk. /- Meal bill assistance will be available in writing.\n 2.income: <4.50 lakh",
+            "document" : "1.Copy of Aadhaar Card\n 2.Unreserved Class Certificate\n 3.Income certificate\n4.Age Pro(Birth Certificate/Living Certificate)\n5.Proof of residence\n6.Evidence of monthly meal bill paid/payable in hostel\n7.A bonafide certificate of the student's ongoing studies from the school\n8.Mark sheet of class-12 or last year of studies \n9.The hostel is run by a society/ trust/ organization Proof of that \n10.Copy of first page of applicant's bank passbook.",
+            "process"  : "1.step-1 : fill all the require detail on website.\n2.step-2 : upload all your require document.\n3.step-3 : website show 2 pages at the end ,print it.\n4.step-4 : make 2 set of this pages and all require document. \n5.step-s : sumbit this set to bahumali bhavan ahemdabad.",
+            "faculty"  : "no faculty require"
+            },
+        "private" : {
+           "FFE" : {
+            
+           }
+
+        }
+    },
+    "club" : {
+        "ncc" : {
+            "info": "The NCC(NATIONAL CADET CORPS) provides exposure to the cadets in a wide range of activities., with a distinct emphasis on Social Services, Discipline and Adventure Training. The NCC is open to all regular students of schools and colleges on a voluntary basis. The students have no liability for active military service.\n The motto of NCC is 'Unity and Discipline'. The Directorate today has five Groups under command as under:-(i) NCC Group HQ, Ahmedabad.\n(ii) NCC Group HQ, Vadodara.\n(iii) NCC Group HQ, Rajkot.\n(iv) NCC Group HQ, Vallabh Vidya Nagar (V V Nagar).\n (v)  NCC Group HQ, Jamnagar (New Raising).\n Currently VGEC NCC is working under 1 GUJ CTC BATTALION. And the headquarter of NCC in Ahmedabad is in Law garden,Ahmedabad. ",
+            "selection" : "follow rules and regulation of ncc. \n regularity in training session. \n no major medical issues.",
+            "activity":{
+                "college": "1. Regular parade sessions . \n 2.ssb interview preparation for NDA(National Defense Academy).In which lectures cunducted by ncc senior. \n 3. NCC media team for making posters on event ,Creating report for events etc..",
+                "unit": "1. In unit level  VGEC is under on  1GUJ CTC BATTALION. \n 2. In which Army staff trained the NCC cadets for differnt national level camps.\n 3. Also for riffle shooting Army staff train to cadets for rifle shooting.\n 4.drill session and also conduct theory session for NCC B and C certificate exam.",
+                "national": "In national level there are many camps for cadets to improve self development,discipline,skills and knowledge.\n There are many national camp like.... \n 1.RDC CAMP(REPUBLIC DAY CAMP)\n 2.AAC(ARMY ATTECHMENT CAMP)\n 3. TSC CAMP(THAL SENA CAMP)\n 4. RIFFLE SHOOTING MAVLANKAR CAMP\n 5.YEP CAMP (YOUTH EXCHANGE PROGRAMM).. etc.... "
+            },
+             "more": "for more information visit the website of vgec ncc \n https://www.vgecg.ac.in/NCC/"
+        },
+        "nss" : {
+            "info": "National Service Scheme (NSS) was introduced in 1969 with the primary objective of developing the personality and character of the student youth through voluntary community service. 'Education through Service' is the purpose of the NSS. The ideological orientation of the NSS is inspired by the ideals of Mahatma Gandhi.\n the motto of NSS is “NOT ME, BUT YOU”. An NSS volunteer places the ‘community’ before ‘self’. ",
+            "activity": {
+                "camp": "Tree Planting in village.\nRally on SAVE WATER.\nRally on Road Safety.\n Computer and Mobile training for children.\nAgricultural technology Exhibition.\nDemonstration on “Mushroom Production Techniques”\nRally on malaria and dengue awareness.\n",
+                "college": "National Service Scheme (NSS) is a voluntary program under which young students from colleges, universities, and +2 level work towards creating a campus-community linkage. Popular as NSS, this program is conducted by the Ministry of Youth Affairs & Sports.",
+                "other": "Environment Enrichment and Conservation:\n1. Plantation of trees, their preservation and upkeep (each NSS unit should plant and protect at least 1000 saplings);\n 2. Creation of NSS parks/gardens.\n 3. Construction & maintenance of village streets, drains, etc... \n4. NSS volunteers generally work in villages, slums and voluntary agencies to complete 120 hours of regular activities during an academic year"
+            }
+
+
+        },
+        "gdsc" : {
+            "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+
+            "dsa and interview prep":{
+                "lead":"ayush jain",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about data structure and interview preparation"
+            },
+            "ai/ml":{
+                "lead":"amit gohel",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about Artificial Intellegence and Machine Learning"
+            },
+            "flutter":{
+                "lead":"dharmik ratanpara",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about App Development using Flutter"
+            },
+            "web development":{
+                "lead":"manthan soni",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about Web Development Technologies"
+            },
+            "competitive programming":{
+                "lead":"kashyap patel",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about competitive programming"
+            }
+        }
+    },
+    "faculty" : {
+        "chemical" :{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=2",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/38741"
+        },
+        "civil" :
+        {
+            "department" : "https://www.vgecg.ac.in/department.php?dept=4",
+            "hod" : "http://www.vgec.cteguj.in/index.php/facultydetail/show/38762"
+        },
+        "computer" :{
+            "department" :"https://www.vgecg.ac.in/department.php?dept=3",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/10576"
+        },
+        "electrical" :{
+            "department" :"https://www.vgecg.ac.in/department.php?dept=5",
+            "hod":"http://www.vgec.cteguj.in/index.php/facultydetail/show/37401"
+        },
+        "ec":{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=6",
+            "hod":"http://www.vgec.cteguj.in/index.php/facultydetail/show/13307"
+        },
+        "it":{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=7",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/37971"
+        },
+        "ic" :{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=8",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/10663"
+        },
+        "mechanical" :{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=9",
+            "hod" : "http://www.vgec.cteguj.in/index.php/facultydetail/show/13722"
+        },
+        "pe": {
+            "department": "https://www.vgecg.ac.in/department.php?dept=10",
+            "hod": "http://www.vgec.cteguj.in/index.php/facultydetail/show/37401"
+          },
+          "ds": {
+            "department": "https://www.vgecg.ac.in/department.php?dept=13",
+            "hod": "http://www.vgec.cteguj.in/facultydetail/show/13736"
+          }
+    },
+    "library" : {
+        
+        "time" : {
+            "start" : "11 : 00 am",
+            "break" : "2.30 pm to 3.00 pm",
+            "end" : "05 : 00 pm",
+            "working": "Monday to Friday and working Saturday 9:30AM to 6.10PM" ,
+            "issue": "3.00 pm to 5.00 pm",
+            "renew": "11.00 am to 2.30 pm",
+            "reading": "11.00 am to 5.00 pm (lunch time - 2.30 pm to 3.00 pm)",
+            "department": {
+                "computer": "Thursday",
+                "elctrical": "",
+                "it": "Tuesday",
+                "chemical": "",
+                "ec": "",
+                "ic": "",
+                "mechanical": "",
+                "power": "",
+                "datascience":"",
+                "civil": "",
+                "am":"",
+                "s&h": ""
+            }
+        },
+        "process":{
+            "registration": "Registration process is handled through sts portal registration.After completing the registration process in sts portal your registration is completed for library.",
+
+            "issue": "step-1 - first of all for issuing book you have required id card for your information. \n step-2 - update the issuing book details through librarian. \n step-3 - update the validity of issuing book on card. (2 months time for each book )",
+            
+            "renew": "step-1 - go to the librarian \n step-2 - update your book duration time(validity time)\n step-3 - if your renew date is gone then penelty is done(1 day delay 1 rupee is penelty)."
+        },
+        "book": "Form information about which books are available in library visit the below website https://www.vgecg.ac.in/library.php",
+       "faculty": "1. B. J. Agravat(Librarian)\n 2. Sunita A. Captain(Assistant Librarian)\n 3. Vital R. Patel (Book Issue/Return)\n 4.Jagruti B. Parmar(Book Issue/Return)"
+
+    },
+    "news" : {
+        "hackathon" : "hackvgec"
+    }
+    
+>>>>>>> af5e0ce4fc7fd3886f33063fddc8e3544e4bb057
 }
