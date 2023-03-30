@@ -9,18 +9,49 @@
     },
     "scholarship":{
       "tags":["digital gujarat", "mysy", "nsp", "private"],
-      "digital gujarat":["criteria","document","process","faculty"],
-      "mysy":["criteria","document","process","faculty"],
-      "nsp":["criteria","document","process","faculty"],
-      "foodbill":["criteria","document","process","faculty"]
+      "digital gujarat":{
+        "tags":["criteria","document","process","faculty"]
+      },
+      "mysy":{
+        "tags":["criteria","document","process","faculty"]
+      },
+      "nsp":{
+        "tags":["criteria","document","process","faculty"]
+      },
+      "foodbill":{
+        "tags":["criteria","document","process","faculty"]
+      }
     },
     "club": {
-      "tags":["ncc", "nss", "gdsc"]
+      "tags":["ncc", "nss", "gdsc"],
+      "ncc":{
+        "tags":["info","selection","activity","more"]
+      },
+      "nss":{
+        "tags":["info","activity"]
+      },
+      "gdcs":{
+        "tags":["dsa and interview prep","ai/ml","flutter","web development","competitive programming"],
+        "dsa and interview prep":{
+          "tags":["lead","join","info"]
+        },
+        "ai/ml":{
+          "tags":["lead","join","info"]
+        },
+        "flutter":{
+          "tags":["lead","join","info"]
+        },
+        "web development":{
+          "tags":["lead","join","info"]
+        },
+        "competitive programming":{
+          "tags":["lead","join","info"]
+        }
+      }
     },
     "faculty":{
       "tags":["ce", "it", "ec"]
     },
-
     "library":{
       "tags":["time", "schedule"]
     },
