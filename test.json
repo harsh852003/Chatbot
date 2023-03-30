@@ -29,9 +29,23 @@
     },
     "club" : {
         "ncc" : {
-
+            "info": "The NCC(NATIONAL CADET CORPS) provides exposure to the cadets in a wide range of activities., with a distinct emphasis on Social Services, Discipline and Adventure Training. The NCC is open to all regular students of schools and colleges on a voluntary basis. The students have no liability for active military service.\n The motto of NCC is 'Unity and Discipline'. The Directorate today has five Groups under command as under:-(i) NCC Group HQ, Ahmedabad.\n(ii) NCC Group HQ, Vadodara.\n(iii) NCC Group HQ, Rajkot.\n(iv) NCC Group HQ, Vallabh Vidya Nagar (V V Nagar).\n (v)  NCC Group HQ, Jamnagar (New Raising).\n Currently VGEC NCC is working under 1 GUJ CTC BATTALION. And the headquarter of NCC in Ahmedabad is in Law garden,Ahmedabad. ",
+            "selection" : "follow rules and regulation of ncc. \n regularity in training session. \n no major medical issues.",
+            "activity":{
+                "college": "1. Regular parade sessions . \n 2.ssb interview preparation for NDA(National Defense Academy).In which lectures cunducted by ncc senior. \n 3. NCC media team for making posters on event ,Creating report for events etc..",
+                "unit": "1. In unit level  VGEC is under on  1GUJ CTC BATTALION. \n 2. In which Army staff trained the NCC cadets for differnt national level camps.\n 3. Also for riffle shooting Army staff train to cadets for rifle shooting.\n 4.drill session and also conduct theory session for NCC B and C certificate exam.",
+                "national": "In national level there are many camps for cadets to improve self development,discipline,skills and knowledge.\n There are many national camp like.... \n 1.RDC CAMP(REPUBLIC DAY CAMP)\n 2.AAC(ARMY ATTECHMENT CAMP)\n 3. TSC CAMP(THAL SENA CAMP)\n 4. RIFFLE SHOOTING MAVLANKAR CAMP\n 5.YEP CAMP (YOUTH EXCHANGE PROGRAMM).. etc.... "
+            },
+             "more": "for more information visit the website of vgec ncc \n https://www.vgecg.ac.in/NCC/"
         },
         "nss" : {
+            "info": "National Service Scheme (NSS) was introduced in 1969 with the primary objective of developing the personality and character of the student youth through voluntary community service. 'Education through Service' is the purpose of the NSS. The ideological orientation of the NSS is inspired by the ideals of Mahatma Gandhi.\n the motto of NSS is “NOT ME, BUT YOU”. An NSS volunteer places the ‘community’ before ‘self’. ",
+            "activity": {
+                "camp": "Tree Planting in village.\nRally on SAVE WATER.\nRally on Road Safety.\n Computer and Mobile training for children.\nAgricultural technology Exhibition.\nDemonstration on “Mushroom Production Techniques”\nRally on malaria and dengue awareness.\n",
+                "college": "National Service Scheme (NSS) is a voluntary program under which young students from colleges, universities, and +2 level work towards creating a campus-community linkage. Popular as NSS, this program is conducted by the Ministry of Youth Affairs & Sports.",
+                "other": "Environment Enrichment and Conservation:\n1. Plantation of trees, their preservation and upkeep (each NSS unit should plant and protect at least 1000 saplings);\n 2. Creation of NSS parks/gardens.\n 3. Construction & maintenance of village streets, drains, etc... \n4. NSS volunteers generally work in villages, slums and voluntary agencies to complete 120 hours of regular activities during an academic year"
+            }
+
 
         },
         "gdsc" : {
