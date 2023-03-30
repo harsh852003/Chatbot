@@ -1,29 +1,41 @@
-
 {
     "general" : {
         "induction" : {
             "time" : "10",
             "default" : "this is induction program"
-        },
-        "admission" : {
-            "process" : "verify"
         }
 
     },
     "scholarship" : {
         "digital gujarat" : {
-            "link" : "dg"
+            
+            "criteria" : "1 .The applicant must be a resident of Gujarat.\n 2. The applicant must belong to one of the eligible categories, i.e., EWS, SC, ST, or OBC.\n 3. The applicant must be studying in a post-matric course in a recognized educational institution in Gujarat.\n4.The family income of the applicant should not exceed a certain limit, which varies depending on the category to which the applicant belongs.\n5. The applicant must have a valid Aadhaar card.",
+            "document" : "1.Aadhaar Card \n2.Caste certificate (if applicable)\n3.Income certificate\n4.Previousyearmarksheet\n 5.Bonafide certificate \n6.Bank account details including the bank name, branch name, IFSC code, and account number.",
+            "process" : "1.step- 1 set 2 copy for all reqiure document. \n2.step -2 go to your department faculty to check all documents for approvel. \n3.step -3 go to the academic block-A on student section department for step-paper. \n 4.step -4 go to your department and submit document to rspective faculty members.",
+            "faculty" : "1.pooja Mistry"
         },
         "mysy" : {
-
+            "criteria" : "1.For scholarship in Diploma admissions, the candidate should have passed the Std X from arecognized board from state of Gujarat with minimum 80 percentile in the board examination\n 2. For scholarship in Bachelor degree programs, the candidates should have passed Std XII Science/General stream from recognised board from the state of Gujarat with minimum80 percentile inthe board examination.\n 3. For Diploma to Degree students the minimum eligibility criteria for availing the benefits of the scheme is a 65% marks at Diploma level examination from recognised university situated in the state of Gujarat.\n 4. The candidates whose parents annual income is not more than Rs. 6,00,000/- per annum shall only be considered eligible for the said scheme.\n 5. The State Government has approved the validity of income certificate for three financial years from date of issue. Accordingly, a candidate who has a valid income certificate need not haveto issue it again for next three years financial years.",
+            "document" : "the below pdf is for all require document for mysy",
+            "process" : "1.step- 1 set 2 copy of all reqiure document. \n2.step -2 go to your department faculty to check all documents for approvel. \n3.step -3 go to the academic block-A on student section department for step-paper. \n 4.step -4 go to your department and submit document to rspective faculty members.",
+            "faculty" : "1. Prof. Disha D. Tilala(science and Humanities)\n2.Prof. Jagruti K.Naik(Electronics & communication)"
         },
         "nsp" : {
-
+            "criteria" : "1. pre-matric :\n previous final exam = 50%\nincome of parents/guardian  = 1.00 lakh\n2.pose-matric : \n previous final  exam  = 50%\n income = 2.00 lakh \n 3.merit cum means :\n previous final exam =50%\nincome = 2.50lakh\n4.begum hazrat mahal\nprevious final exam = 50%\n income= 2.00 lakh\n5.pragati (only for girls)\ninocme 8 lakh\n6.central  sector scheme\nincome : 4-5lakh\n result :80 percentile(12th)\nprevious final exam : 50% ",
+            "document" : "1.Mandatory form(available in vgec website)\n2.bonofide certificate (NSP bonofide not college Bonafide \n 3.Adhar card\n4.income certifiacte\n5.bank passbook 1st page copy(which show the name and account number)\n6.college fee receipt\n7.result of last semester+current semester\n8.Minority  certificate  if applicable only\nafter apply in national scholarship portal is compulsory  for students to submitted  their application with  related  document in hard copy\nsubmit documents in 2 copy",
+             "process" : "1.step- 1 set 2 copy for all reqiure document. \n2.step -2 go to your department faculty to check all documents for approvel. \n3.step -3 go to the academic block-A on student section department for step-paper. \n 4.step -4 go to your department and submit document to rspective faculty members.",
+             "faculty" : "1.nilam panchal"
         },
         "food bill" : {
-
-        },
+            "criteria" : "1.Rs.1500 per month for 10 months for non-reserved category students studying in graduate level medical, dental, technical, para-medical and studying in government/non-aided hostels who do not have educational system in their own taluk away from their family and study outside the taluk. /- Meal bill assistance will be available in writing.\n 2.income: <4.50 lakh",
+            "document" : "1.Copy of Aadhaar Card\n 2.Unreserved Class Certificate\n 3.Income certificate\n4.Age Pro(Birth Certificate/Living Certificate)\n5.Proof of residence\n6.Evidence of monthly meal bill paid/payable in hostel\n7.A bonafide certificate of the student's ongoing studies from the school\n8.Mark sheet of class-12 or last year of studies \n9.The hostel is run by a society/ trust/ organization Proof of that \n10.Copy of first page of applicant's bank passbook.",
+            "process"  : "1.step-1 : fill all the require detail on website.\n2.step-2 : upload all your require document.\n3.step-3 : website show 2 pages at the end ,print it.\n4.step-4 : make 2 set of this pages and all require document. \n5.step-s : sumbit this set to bahumali bhavan ahemdabad.",
+            "faculty"  : "no faculty require"
+            },
         "private" : {
+           "FFV" : {
+            
+           }
 
         }
     },
@@ -35,7 +47,7 @@
 
         },
         "gdsc" : {
-
+            
         }
     },
     "faculty" : {
