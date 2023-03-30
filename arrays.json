@@ -1,31 +1,159 @@
 {
   "main": {
-    "tags": ["general", "scholarship", "club", "faculty", "library", "news"],
+    "tags": [
+      "general",
+      "scholarship",
+      "club",
+      "faculty",
+      "library",
+      "news"
+    ],
     "general": {
-      "tags": ["induction", "admission"],
+      "tags": [
+        "induction",
+        "admission"
+      ],
       "induction": {
-         "tags": ["time", "default"] 
-        }
+        "tags": [
+          "time",
+          "default"
+        ]
+      }
     },
-    "scholarship":{
-      "tags":["digital gujarat", "mysy", "nsp", "private"],
-      "digital gujarat":["criteria","document","process","faculty"],
-      "mysy":["criteria","document","process","faculty"],
-      "nsp":["criteria","document","process","faculty"],
-      "foodbill":["criteria","document","process","faculty"]
+    "scholarship": {
+      "tags": [
+        "digital gujarat",
+        "mysy",
+        "nsp",
+        "private"
+      ],
+      "digital gujarat": [
+        "criteria",
+        "document",
+        "process",
+        "faculty"
+      ],
+      "mysy": [
+        "criteria",
+        "document",
+        "process",
+        "faculty"
+      ],
+      "nsp": [
+        "criteria",
+        "document",
+        "process",
+        "faculty"
+      ],
+      "foodbill": [
+        "criteria",
+        "document",
+        "process",
+        "faculty"
+      ]
     },
     "club": {
-      "tags":["ncc", "nss", "gdsc"]
+      "tags": [
+        "ncc",
+        "nss",
+        "gdsc"
+      ],
+      "ncc":{
+        "tags":[
+          "info",
+          "selection",
+          "activity",
+          "more"
+        ],
+        "activity" : {
+          "tags" : [
+            "collage",
+            "unit",
+            "national"
+        ]
+        }
+      },
+      "nss":{
+        "tags":[
+          "info",
+          "activity"
+        ],
+        "activity": {
+          "tags": [
+            "camp",
+            "college",
+            "other"
+          ]
+        }
+      }
     },
-    "faculty":{
-      "tags":["ce", "it", "ec"]
-    },
+    "faculty": {
+      "tags": [
+        "chemical",
+        "civil",
+        "computer",
+        "electrical",
+        "ec",
+        "it",
+        "ic",
+        "mechanical",
+        "pe"
+      ],
+      "chemical":{
+        "tags":[
+          "department",
+          "hod"
+        ]
+       }
+      },
 
-    "library":{
-      "tags":["time", "schedule"]
+    "library": {
+      "tags": [
+        "time",
+        "process",
+        "book",
+        "faculty"
+      ],
+      "time":{
+        "tags":[
+          "start",
+          "break",
+          "end",
+          "working",
+          "issue",
+          "renew",
+          "reading",
+          "department"
+        ],
+        "department":{
+          "tags":[
+            "computer",
+            "electrical",
+            "it",
+            "chemical",
+            "ec",
+            "ic",
+            "mechanical",
+            "power",
+            "datascience",
+            "civil",
+            "am","s&h"
+          ]
+        }
+      },
+      "process":{
+        "tags":[
+          "registration",
+          "issue",
+          "renew"
+        ]
+      }
     },
-    "news":{
-      "tags":["daily", "hackathone"]
+    "news": {
+      "tags": [
+        "daily",
+        "hackathone"
+      ]
     }
   }
 }
