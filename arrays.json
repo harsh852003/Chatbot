@@ -12,15 +12,17 @@
       "digital gujarat":["criteria","document","process","faculty"],
       "mysy":["criteria","document","process","faculty"],
       "nsp":["criteria","document","process","faculty"],
-      "foodbill":["criteria","document","process","faculty"],
+      "foodbill":["criteria","document","process","faculty"]
     },
     "club": {
-      "tags":["ncc", "nss", "gdsc"]
+      "tags":["ncc", "nss", "gdsc"],
+      "ncc":["info","selection","activity","more"],
+      "nss":["info","activity"],
+      "gdcs":[]
     },
     "faculty":{
       "tags":["ce", "it", "ec"]
     },
-
     "library":{
       "tags":["time", "schedule"]
     },
