@@ -1,0 +1,125 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background: white;
+}
+
+.row{
+  
+  margin: auto;
+  border-style: solid;
+  border-color: black;
+  height: 750px;
+  width: 800px;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  overflow: auto;
+ 
+
+}
+.input{
+ height: 60px;
+ width: 500px;
+ border-radius: 12px;
+ border-color:rgb(248, 217, 175);
+ text-align: left ;
+ top: 600px;
+  left: 500px;
+  position: fixed;
+
+}
+#send-button{
+  height: 40px;
+ width: 100px;
+ color:white;
+ border-radius: 12px;
+ background-color: rgb(174, 206, 10);
+ justify-content: space-between;
+ top: 609px;
+  left: 1020px;
+  position: fixed;
+}
+
+.uesrquestion{
+  
+  width: 50px;
+  border-radius: 12px;
+  position: absolute;
+  top: 550px;
+  left:505px;
+  width: 200px;
+  height: 30px;
+  background-color: rgb(35, 85, 35);
+}
+.response{
+
+  width: 50px;
+  border-radius: 12px;
+  position: absolute;
+  top: 520px;
+  left:800px;
+  width: 200px;
+  height: 30px;
+  background-color: rgb(8, 70, 83);
+}
+.faq{
+  border-style: solid;
+  position: absolute;
+  left:5px;
+  top: 45px;
+  border-radius: 12px;
+  position: absolute;
+  height: 750px;
+  width: 350px;
+  background-color: rosybrown;
+  
+}
+#open-button{
+  height: 30px;
+  width: 50px;
+  color: red;
+  border-radius: 12px;
+  background-color: white;
+  
+}
+
+.about{
+  border-style: solid;
+  position: absolute;
+  right: 5px;
+  top: 45px;
+  border-radius: 12px;
+  position: absolute;
+  height: 750px;
+  width: 350px;
+  background-color:rosybrown;
+  text-size-adjust: auto;
+}
+.abc{
+  height: 40px;
+  width: 200px;
+  border-radius: 10px;
+  position:absolute;
+  left: 5px;
+}
+
+#submit-button{
+  height: 30px;
+  width: 60px;
+  color:black;
+  border-radius: 12px;
+  background-color: whitesmoke;
+  position: absolute;
+  top: 150px;
+  left: 5px;
+  bottom: 0px;
+}
+.feedback{
+  object-position: center;
+  position: absolute;
+  top: 530px;
+  bottom: 40px;
+
+}
+

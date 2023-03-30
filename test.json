@@ -1,0 +1,53 @@
+
+{
+    "general" : {
+        "induction" : {
+            "time" : "10",
+            "default" : "this is induction program"
+        },
+        "admission" : {
+            "process" : "verify"
+        }
+
+    },
+    "scholarship" : {
+        "digital gujarat" : {
+            "link" : "dg"
+        },
+        "mysy" : {
+
+        },
+        "nsp" : {
+
+        },
+        "food bill" : {
+
+        },
+        "private" : {
+
+        }
+    },
+    "club" : {
+        "ncc" : {
+
+        },
+        "nss" : {
+
+        },
+        "gdsc" : {
+
+        }
+    },
+    "faculty" : {
+        "computer" : "3"
+    },
+    "library" : {
+        "time" : {
+            "start" : "11 : 00 am",
+            "end" : "05 : 00 pm"
+        }
+    },
+    "news" : {
+        "hackathon" : "hackvgec"
+    }
+}

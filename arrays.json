@@ -1,0 +1,14 @@
+{
+  "main": {
+    "tags": ["general", "club", "library", "faculty", "scholarship", "news"],
+    "general": {
+      "tags": ["induction", "admission"],
+      "induction": { "tags": ["time", "default"] }
+    },
+    "club": ["ncc", "nss", "gdsc"],
+    "library": ["time", "schedule"],
+    "faculty": ["ce", "it", "ec"],
+    "scholarship": ["digital gujarat", "mysy", "nsp", "private"],
+    "news": ["daily", "hackathone"]
+  }
+}
