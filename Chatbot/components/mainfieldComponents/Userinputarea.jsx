@@ -12,7 +12,7 @@ function Inputfield() {
     }
   return (
     <div class="text">
-      <input type="text" className="input" name="question" id="question" onChange={updateQuestion} />
+      <input type="text" className="input" name="question" id="question" onChange={updateQuestion} value={question} />
       {console.log(question)}
       <div className="button" id="sendbutton">
         <button name="send" id="send-button" type="submit" onClick={abcd}>
