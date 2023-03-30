@@ -1,5 +1,7 @@
-function userinput() {
-
+function Userinput() {
+    return(
+        <div>abc</div>
+    )
 }
 
-export default userinput
+export default Userinput

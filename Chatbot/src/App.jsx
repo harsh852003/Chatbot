@@ -7,6 +7,13 @@ import Mainfield from '../components/Mainfield'
 
 
 function App() {
+    return(
+        <div>
+            <Aboutus />
+            <Faq />
+            <Mainfield />
+        </div>
+    )
   
 }
 
