@@ -1,62 +1,149 @@
 {
   "main": {
-    "tags": ["general", "scholarship", "club", "faculty", "library", "news"],
+    "tags": [
+      "general",
+      "scholarship",
+      "club",
+      "faculty",
+      "library",
+      "news"
+    ],
     "general": {
-      "tags": ["induction", "admission"],
+      "tags": [
+        "induction",
+        "admission"
+      ],
       "induction": {
-         "tags": ["time", "default"] 
-        }
-    },
-    "scholarship":{
-      "tags":["digital gujarat", "mysy", "nsp", "private"],
-      "digital gujarat":{
-        "tags":["criteria","document","process","faculty"]
-      },
-      "mysy":{
-        "tags":["criteria","document","process","faculty"]
-      },
-      "nsp":{
-        "tags":["criteria","document","process","faculty"]
-      },
-      "foodbill":{
-        "tags":["criteria","document","process","faculty"]
+        "tags": [
+          "time",
+          "default"
+        ]
       }
+    },
+    "scholarship": {
+      "tags": [
+        "digital gujarat",
+        "mysy",
+        "nsp",
+        "private"
+      ],
+      "digital gujarat": [
+        "criteria",
+        "document",
+        "process",
+        "faculty"
+      ],
+      "mysy": [
+        "criteria",
+        "document",
+        "process",
+        "faculty"
+      ],
+      "nsp": [
+        "criteria",
+        "document",
+        "process",
+        "faculty"
+      ],
+      "foodbill": [
+        "criteria",
+        "document",
+        "process",
+        "faculty"
+      ]
     },
     "club": {
-      "tags":["ncc", "nss", "gdsc"],
-      "ncc":{
-        "tags":["info","selection","activity","more"]
+      "tags": [
+        "ncc",
+        "nss",
+        "gdsc"
+      ]
+    },
+    "faculty": {
+      "tags": [
+        "computer",
+        "ec",
+        "chemical",
+        "civil",
+        "electrical",
+        "it",
+        "ic",
+        "mechanical",
+        "pe",
+        "ds"
+      ],
+      "computer": {
+        "tags": [
+          "department",
+          "hod"
+        ]
       },
-      "nss":{
-        "tags":["info","activity"]
+      "ec": {
+        "tags": [
+          "department",
+          "hod"
+        ]
       },
-      "gdcs":{
-        "tags":["dsa and interview prep","ai/ml","flutter","web development","competitive programming"],
-        "dsa and interview prep":{
-          "tags":["lead","join","info"]
-        },
-        "ai/ml":{
-          "tags":["lead","join","info"]
-        },
-        "flutter":{
-          "tags":["lead","join","info"]
-        },
-        "web development":{
-          "tags":["lead","join","info"]
-        },
-        "competitive programming":{
-          "tags":["lead","join","info"]
-        }
+      "chemical": {
+        "tags": [
+          "department",
+          "hod"
+        ]
+      },
+      "civil": {
+        "tags": [
+          "department",
+          "hod"
+        ]
+      },
+      "electrical": {
+        "tags": [
+          "department",
+          "hod"
+        ]
+      },
+      "it": {
+        "tags": [
+          "department",
+          "hod"
+        ]
+      },
+      "ic": {
+        "tags": [
+          "department",
+          "hod"
+        ]
+      },
+      "mechanical": {
+        "tags": [
+          "department",
+          "hod"
+        ]
+      },
+      "pe": {
+        "tags": [
+          "department",
+          "hod"
+        ]
+      },
+      "ds": {
+        "tags": [
+          "department",
+          "hod"
+        ]
       }
     },
-    "faculty":{
-      "tags":["ce", "it", "ec"]
+    "library": {
+      "tags": [
+        "time",
+        "schedule"
+      ]
     },
-    "library":{
-      "tags":["time", "schedule"]
-    },
-    "news":{
-      "tags":["daily", "hackathone"]
+    "news": {
+      "tags": [
+        "daily",
+        "hackathone"
+      ]
     }
   }
 }
