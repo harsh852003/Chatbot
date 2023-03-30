@@ -65,7 +65,39 @@
         }
     },
     "faculty" : {
-        "computer" : "3"
+        "chemical" :{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=2",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/38741"
+        },
+        "civil" :
+        {
+            "department" : "https://www.vgecg.ac.in/department.php?dept=4",
+            "hod" : "http://www.vgec.cteguj.in/index.php/facultydetail/show/38762"
+        },
+        "computer" :{
+            "department" :"https://www.vgecg.ac.in/department.php?dept=3",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/10576"
+        },
+        "electrical" :{
+            "department" :"https://www.vgecg.ac.in/department.php?dept=5",
+            "hod":"http://www.vgec.cteguj.in/index.php/facultydetail/show/37401"
+        },
+        "ec":{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=6",
+            "hod":"http://www.vgec.cteguj.in/index.php/facultydetail/show/13307"
+        },
+        "it":{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=7",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/37971"
+        },
+        "ic" :{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=8",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/10663"
+        },
+        "mechanical" :{
+            "department" : "https://www.vgecg.ac.in/department.php?dept=9",
+            "hod" : "http://www.vgec.cteguj.in/index.php/facultydetail/show/13722"
+        }
     },
     "library" : {
         "time" : {
