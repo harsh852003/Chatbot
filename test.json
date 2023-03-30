@@ -56,10 +56,40 @@
         "computer" : "3"
     },
     "library" : {
+        
         "time" : {
             "start" : "11 : 00 am",
-            "end" : "05 : 00 pm"
-        }
+            "break" : "2.30 pm to 3.00 pm",
+            "end" : "05 : 00 pm",
+            "working": "Monday to Friday and working Saturday 9:30AM to 6.10PM" ,
+            "issue": "3.00 pm to 5.00 pm",
+            "renew": "11.00 am to 2.30 pm",
+            "reading": "11.00 am to 5.00 pm (lunch time - 2.30 pm to 3.00 pm)",
+            "department": {
+                "computer": "Thursday",
+                "elctrical": "",
+                "it": "Tuesday",
+                "chemical": "",
+                "ec": "",
+                "ic": "",
+                "mechanical": "",
+                "power": "",
+                "datascience":"",
+                "civil": "",
+                "am":"",
+                "s&h": ""
+            }
+        },
+        "process":{
+            "registration": "Registration process is handled through sts portal registration.After completing the registration process in sts portal your registration is completed for library.",
+
+            "issue": "step-1 - first of all for issuing book you have required id card for your information. \n step-2 - update the issuing book details through librarian. \n step-3 - update the validity of issuing book on card. (2 months time for each book )",
+            
+            "renew": "step-1 - go to the librarian \n step-2 - update your book duration time(validity time)\n step-3 - if your renew date is gone then penelty is done(1 day delay 1 rupee is penelty)."
+        },
+        "book": "Form information about which books are available in library visit the below website https://www.vgecg.ac.in/library.php",
+       "faculty": "1. B. J. Agravat(Librarian)\n 2. Sunita A. Captain(Assistant Librarian)\n 3. Vital R. Patel (Book Issue/Return)\n 4.Jagruti B. Parmar(Book Issue/Return)"
+
     },
     "news" : {
         "hackathon" : "hackvgec"
