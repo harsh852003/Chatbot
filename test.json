@@ -61,7 +61,33 @@
 
         },
         "gdsc" : {
-            
+            "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+
+            "dsa and interview prep":{
+                "lead":"ayush jain",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about data structure and interview preparation"
+            },
+            "ai/ml":{
+                "lead":"amit gohel",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about Artificial Intellegence and Machine Learning"
+            },
+            "flutter":{
+                "lead":"dharmik ratanpara",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about App Development using Flutter"
+            },
+            "web development":{
+                "lead":"manthan soni",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about Web Development Technologies"
+            },
+            "competitive programming":{
+                "lead":"kashyap patel",
+                "join":"https://gdsc.community.dev/vishwakarma-government-engineering-college-ahmedabad/",
+                "info":"In this, you are going to learn about competitive programming"
+            }
         }
     },
     "faculty" : {
