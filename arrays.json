@@ -1,14 +1,31 @@
 {
   "main": {
-    "tags": ["general", "club", "library", "faculty", "scholarship", "news"],
+    "tags": ["general", "scholarship", "club", "faculty", "library", "news"],
     "general": {
       "tags": ["induction", "admission"],
-      "induction": { "tags": ["time", "default"] }
+      "induction": {
+         "tags": ["time", "default"] 
+        }
     },
-    "club": ["ncc", "nss", "gdsc"],
-    "library": ["time", "schedule"],
-    "faculty": ["ce", "it", "ec"],
-    "scholarship": ["digital gujarat", "mysy", "nsp", "private"],
-    "news": ["daily", "hackathone"]
+    "scholarship":{
+      "tags":["digital gujarat", "mysy", "nsp", "private"],
+      "digital gujarat":["criteria","document","process","faculty"],
+      "mysy":["criteria","document","process","faculty"],
+      "nsp":["criteria","document","process","faculty"],
+      "foodbill":["criteria","document","process","faculty"],
+    },
+    "club": {
+      "tags":["ncc", "nss", "gdsc"]
+    },
+    "faculty":{
+      "tags":["ce", "it", "ec"]
+    },
+
+    "library":{
+      "tags":["time", "schedule"]
+    },
+    "news":{
+      "tags":["daily", "hackathone"]
+    }
   }
 }
