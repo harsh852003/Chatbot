@@ -97,6 +97,10 @@
         "mechanical" :{
             "department" : "https://www.vgecg.ac.in/department.php?dept=9",
             "hod" : "http://www.vgec.cteguj.in/index.php/facultydetail/show/13722"
+        },
+        "pe" : {
+            "department" : "https://www.vgecg.ac.in/department.php?dept=10",
+            "hod" : "http://www.vgec.cteguj.in/facultydetail/show/10574"
         }
     },
     "library" : {
